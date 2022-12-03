@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Anna",
+        "age": 18,
+        "email": "anna@somemail.com",
+        "school": "Dobeles V\u0122",
+        "car": {
+            "brand": "Tesla",
+            "year": 2022,
+            "color": "Red",
+            "engine": 50
+        }
+    },
+    {
+        "name": "Oskars",
+        "age": 20,
+        "email": "oskars@somemail.com",
+        "school": "Siguldas V\u0122",
+        "car": {
+            "brand": "Audi",
+            "year": 2020,
+            "color": "Black",
+            "engine": 2.0
+        }
+    },
+    {
+        "name": "Jenifer",
+        "age": 17,
+        "email": "jenifer@somemail.com",
+        "school": "Talm\u0101c\u012bbas",
+        "car": {
+            "brand": "Toyota",
+            "year": 2021,
+            "color": "Silver",
+            "engine": 1.5
+        }
+    }
+]
